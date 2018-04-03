@@ -1,0 +1,13 @@
+doctype html
+html(lang="en")
+  head
+    title Chase Nobles
+    style
+      include ./styles.css
+  body
+    include includes/header.pug
+    link(rel='stylesheet', href='https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css')
+    - if (photoUrl)
+      figure(style=`background-image:url(${photoUrl});`)
+    block content
+    include includes/footer.pug

@@ -1,0 +1,24 @@
+{
+  "data": {
+    "type": "Kayaking",
+    "posts": [
+      {
+        "postid": "0001",
+        "title": "Little Beaver Expedition",
+        "url": "little-beaver-expedition",
+        "photoUrl": "../public/little-beaver.jpg",
+        "photos": ["../public/lb-ari.jpg","../public/lb-big-drop.jpg","../public/lb-downstream.jpg","../public/lb-glacier.jpg","../public/lb-gorge.jpg","../public/lb-hike.jpg","../public/lb-johnboat.jpg","../public/lb-putin.jpg","../public/lb-rapid.jpg","../public/lb-waterfall.jpg","../public/lb-will.jpg"],
+        "content": [
+          "My temples were pulsing, my mouth was dry, and it had been at least 10 minutes since I had seen anyone. I shouldn't be feeling this bad. I caught my breath just 30 paces ago. What the hell is wrong with me.",
+          "The crew is gone, and we need to get down the river. The day is not young, but fortunately it's summer in the Pacific Northwest. Long days seem to never end, but why do I feel like such shit.",
+          "Our 20 mile trip up Ross Lake in 9.9hp john boats had taken much longer than expected. Our trip grew from 2 to 4 to 6 to 8. Hell, wife and pop wants to join, why not bring the dog too! We packed these boats to the gill! We were going to be the first crew to explore this drainage in years. This turned into a goddamn party.",
+          "I was only a mile in, but it was all climbing up to this point. I remember thinking, \"I wonder if I can see Canada from here.\" This trail was rugged. It likely hadn't been maintained in years, and the downed trees came one after another. It wouldn't have been so bad without a kayak, but the extra 85lb kayak on my shoulder made every tree a decision. Do I try to step over precariously balancing my boat on my shoulder? Do I slide my boat under and pick it up on the other side? No that would be way more work.",
+          "Left foot, right foot why do I feel like shit. Holy fuck. I have to stop and sit down. It was then that I realized that I hadn't drank any water all day. The 20 mile boat ride in the sun as enjoyable as it was sapped me dry. I felt like dried mud in the desert. I remember wanting to turn around but kept kicking myself for even thinking about it. The time had come though, I needed to make a decision. Go back or keep trudging, and it was that moment that I heard footsteps.",
+          "I can't explain how happy I was to see Ari. Ari is a crazy kiwi and a legend of his own. I was half expecting a \"what the fuck man\" or \"Are you going to make it?\" but all Ari said was, \"let me carry the rope.\" It was perfect. He assumed the sale. Of course he did. We were on a mission in the headwaters of the Skagit river. The land of glacial fed streams and unexplored wilderness. Without thinking, we were on our way.",
+          "We quickly caught up with the rest of the crew who had explored a place to drop into the gorge below. Once down to the river, a crisp splash from the blue glacier water made me feel like Bobby Boucher in the Adam Sandler Cult Classic, The Waterboy. I was back in the game.",
+          "The river quickly started dropping. Each drop getting consistently steeper and more technical. Scouting downstream was mandatory. You never know if you're going to come up on a river wide log jam or an unrunnable waterfall."
+        ]
+      }
+    ]
+  }
+}

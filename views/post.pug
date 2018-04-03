@@ -1,0 +1,17 @@
+extends layout.pug
+
+block content
+  div.secondary
+    h2.posttitle= title
+    each val in content
+      p.postbody= val
+      if photo
+    each val in photos
+      div.gallery
+       img(src=val)
+  br
+  if photoUrl
+  style.
+   figure::before {
+   background-image: url(#{photo});
+   }
